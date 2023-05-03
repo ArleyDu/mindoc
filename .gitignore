@@ -32,3 +32,7 @@ database
 /conf/app.conf
 /vendor
 /runtime
+
+.DS_Store
+build2ubuntu.sh
+local_mindoc
